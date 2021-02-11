@@ -17,4 +17,4 @@ jobs:
           heroku_email: "gayeye3184@hrandod.com"
           usedocker : true
           dontuseforce: true
-          docker_heroku_process_typ : web
+          docker_heroku_process_type : worker
